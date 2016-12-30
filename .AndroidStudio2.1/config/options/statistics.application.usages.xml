@@ -1,0 +1,38 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="My Application" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1482917203598" />
+      <project id="RecycleView" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled" collectionTime="1483073102877" />
+    </group>
+    <group name="language-level">
+      <project id="My Application" values="JDK_1_7" collectionTime="1482917203598" />
+      <project id="RecycleView" values="JDK_1_7" collectionTime="1483073102865" />
+    </group>
+    <group name="frameworks">
+      <project id="My Application" values="android,android-gradle,java-gradle" collectionTime="1482917203560" />
+      <project id="RecycleView" values="java-gradle,android-gradle,android" collectionTime="1483073102707" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="My Application" values="AndroidRunConfigurationType" collectionTime="1482917203560" />
+      <project id="RecycleView" values="AndroidRunConfigurationType" collectionTime="1483073102708" />
+    </group>
+    <group name="file-type">
+      <project id="My Application" values="Images,IDEA_MODULE,PLAIN_TEXT,Properties,JAVA,XML,ARCHIVE,AIDL,ProGuard File,Groovy,UNKNOWN" collectionTime="1482917203596" />
+      <project id="RecycleView" values="IDEA_MODULE,JAVA,ARCHIVE,ProGuard File,Groovy,Properties,UNKNOWN,AIDL,PLAIN_TEXT,Images,XML" collectionTime="1483073102838" />
+    </group>
+    <group name="module type">
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1482917203560" />
+      <project id="RecycleView" values="JAVA_MODULE" collectionTime="1483073102707" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="77" />
+      <entry feature="ide.settings.Android_SDK" count="9" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="4" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+    </counts>
+  </component>
+</application>

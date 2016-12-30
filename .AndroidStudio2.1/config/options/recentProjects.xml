@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\danushka_r\AndroidStudioProjects\RecycleView" />
+        <option value="C:\Users\danushka_r\AndroidStudioProjects\MyApplication2" />
+        <option value="C:\Users\danushka_r\AndroidStudioProjects\MyApplication" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\danushka_r\AndroidStudioProjects\RecycleView" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\danushka_r\AndroidStudioProjects\RecycleView" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\danushka_r\AndroidStudioProjects\MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2915827" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1482901705065" />
+              <option name="buildTimestamp" value="1464201000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\danushka_r\AndroidStudioProjects\MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2915827" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1482914999279" />
+              <option name="buildTimestamp" value="1464201000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\danushka_r\AndroidStudioProjects\RecycleView">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2915827" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1483073121350" />
+              <option name="buildTimestamp" value="1464201000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

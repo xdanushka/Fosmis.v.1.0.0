@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1482894269409" />
+    <property name="com.google.gct.enable.cloud.testing" value="true" />
+    <property name="MobileminApi" value="15" />
+    <property name="lastTip" value="4" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/MyApplication/app" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="PLUGIN_FILTER" value="bit&#10;bi" />
+  </component>
+</application>
